@@ -16,7 +16,7 @@
 
 		});
 
-
+ 
 	</script>
 <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"style="margin-top:10%;">
   <div class="modal-dialog modal-md" role="document">
